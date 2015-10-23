@@ -30,7 +30,7 @@ Before running the script, the following has to be setup:
 
 - The R Environment is installed. It can be either "plain vanilla R" or RStudio.
 - Package "dplyr" has been installed. It does not have to be loaded, the script does that.
-- [Input data](http://https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) has been downloaded as "UCI_HAR_Dataset.zip" and placed into the working directory of your R environment. Do not decompress the
+- The [original dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) has been downloaded as "UCI_HAR_Dataset.zip" and placed into the working directory of your R environment. Do not decompress the
 file.
 
 ##Steps
